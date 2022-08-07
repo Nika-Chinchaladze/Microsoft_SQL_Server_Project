@@ -1,0 +1,1 @@
+CREATE NONCLUSTERED INDEX Full_Name ON dbo.Employees(FirstName, LastName);

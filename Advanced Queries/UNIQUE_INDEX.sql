@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX unique_phone ON dbo.Suppliers(Phone);
